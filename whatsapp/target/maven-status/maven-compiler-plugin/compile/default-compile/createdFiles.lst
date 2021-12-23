@@ -1,0 +1,8 @@
+com/group/whatsapp/bean/GroupMember.class
+com/group/whatsapp/bean/Message.class
+com/group/whatsapp/controller/GroupController.class
+com/group/whatsapp/WhatsappApplication.class
+com/group/whatsapp/bean/Contact.class
+com/group/whatsapp/service/GroupService.class
+com/group/whatsapp/config/SpringFoxConfig.class
+com/group/whatsapp/bean/Group.class
